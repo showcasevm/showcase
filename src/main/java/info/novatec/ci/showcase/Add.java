@@ -12,7 +12,6 @@ public class Add
       
       number_one = 1;
       number_two = 2;
-      ededeed
       result = number_one + number_two;
       
       System.out.println(result);
